@@ -1,0 +1,30 @@
+Introduction, Network Hacking
+
+Module 1 - Introduction to Ethical Hacking
+Topics:
+	1.1 Introduction to the course
+	1.2 Definition of ethical hacking
+	1.3 The hacking cycle
+	1.4 Kali Linux
+
+Module 2 Phases of Ethical Hacking
+Topics:
+	2.1 Basics Commands of Kali Linux
+	2.2 Reconnaissance
+	2.3 Scanning
+	2.4 Gaining Access
+	2.5 Maintaining Access
+	2.6 Clearing Tracks (so no one can reach them)
+
+Module 3 
+Topics:
+	3.1 Introduction to nmap & sqlmap and how to interpret the initial results of a nmap and 			 	sqlmap scan
+	3.2 Practice Basic SQL commands, introduction to some more advanced SQL commands
+	3.3 Execute an automated SQL Injection with SQLmap
+	
+Module 4 Penetration Testing and Capture the Flag
+Topics: 
+	4.1 Manipulate parameters in web-pages including GET and POST parameters
+
+	
+
